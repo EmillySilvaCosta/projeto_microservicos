@@ -13,10 +13,7 @@ Ao rodar o projeto seguir esta ordem: ms_server, envio-de-email-ms, help-desk, m
 
 **Desenvolvido por:**
 
-* Bruna Arquino - [baan](https://git.gft.com/baan)
-* Camilla Campos - [cacp](https://git.gft.com/cacp)
-* Elida Emilly - [eaoa](https://git.gft.com/eaoa)
-* Ingrid Cosme - [idcs](https://git.gft.com/idcs)
+* Elida Emilly 
 
 ----
 
